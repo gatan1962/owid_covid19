@@ -43,7 +43,7 @@ def check_raw_data(input_data, header):
     st.write(input_data)
 
 ## program initialization
-st.title('Covid-19 Trend Chart')
+st.title('Covid-19 Cases Trend Chart')
 st.text('Data source:- https://covid.ourworldindata.org/data/owid-covid-data.csv')
 
 ## User input country name
